@@ -15,9 +15,9 @@ AWS Services used:
 8. ElasticSearch
 
 UI (Working)
-
+![UI](/images/fronendView.png)
 Output (E-Mail)
-
+![E-Mail](/images/Email.png)
 
 ## Steps
 1. Build and deploy the frontend of the application<br>
