@@ -19,6 +19,10 @@ UI (Working)
 Output (E-Mail)
 ![E-Mail](/images/Email.png)
 
+Team Members:
+1. Himanshu Kumar
+2. Rahul Ramaswamy 
+
 ## Steps
 1. Build and deploy the frontend of the application<br>
 
